@@ -1,7 +1,6 @@
 //-----------------------------------------------------
 // Title: CMPE 343
 // Author: Ahmet Cemal Sert
-// ID:43999263780
 // Section: 1
 // Assignment: HW5 Part2
 // Description: Reader class that contains a read method that reads the text into a string array
