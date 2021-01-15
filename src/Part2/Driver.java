@@ -1,7 +1,6 @@
 //-----------------------------------------------------
 // Title: CMPE 343
 // Author: Ahmet Cemal Sert
-// ID:43999263780
 // Section: 1
 // Assignment: HW5 Part2
 // Description: Driver class of the part2 of the homework that uses the command line arguments and prints out the order of movements in the required format
